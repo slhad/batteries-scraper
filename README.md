@@ -4,6 +4,9 @@ Small Rust HTTP bridge for exposing Logitech mouse battery data on Linux in a fo
 
 This was built to replace the Windows-side battery exporter for a Home Assistant `scrape` sensor.
 
+<img width="596" height="524" alt="image" src="https://github.com/user-attachments/assets/9e922c4b-6d1b-40be-8809-0e1b2e00203b" />
+
+
 ## What It Does
 
 - reads battery percentage from Linux `upower`
